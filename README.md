@@ -1,5 +1,5 @@
  
-# JavaScript: Password Generator | Nodule 3 Challenge
+# JavaScript: Password Generator | Module 3 Challenge
 
 My motivation was to learn the basics and apply what I've learned in the previous week. Why I built this project was to create a password generator website that would help to generate new passwords for user based off certain criteria the user entered. The problem I solved this week was building an application that enables employees to generate random passwords based on criteria that they’ve selected. What I learned was how to write javascript and also utalize HTML and CSS.
 
